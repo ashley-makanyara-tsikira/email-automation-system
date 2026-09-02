@@ -35,6 +35,6 @@ For Support Teams, Sales Teams, Ops Managers
 ### 👩‍💻 Author
 Ashley Makanyara Tsikira - AI Operations Engineer
 LinkedIn: linkedin.com/in/ashley-makanyara-tsikira
-Location: Boksburg, SA | Remote Worldwide
+Location: SA | Remote Worldwide
 
 Built to turn inbox chaos into automated flow
